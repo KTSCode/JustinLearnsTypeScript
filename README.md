@@ -27,5 +27,6 @@ You have two choices:
   - You should probably choose VSCode
 
 ### Getting Started With TypeScrip
+[Do this](https://www.robertcooper.me/get-started-with-typescript-in-2019)
 
 
