@@ -7,3 +7,4 @@ function randomNumber(max) {
 }
 var pun = "\n    I was trying to come up with an Acorns pun, but " + comedy(randomNumber(3)) + "\n";
 console.log(pun);
+//# sourceMappingURL=betterfunction.js.map
